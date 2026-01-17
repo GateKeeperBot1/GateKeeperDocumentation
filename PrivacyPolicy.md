@@ -1,8 +1,6 @@
 # GateKeeper Privacy Policy
 
-Privacy Policy
-
-Last updated: 01/17/2026 (MM/DD/YY)
+**Last updated:** 01/17/2026 (MM/DD/YY)
 
 This Privacy Policy explains how data is collected, used, and stored by GateKeeper ("the Bot").
 
